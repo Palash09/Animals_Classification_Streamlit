@@ -5,3 +5,5 @@ In this repository, I have built a convolutional neural network for predicting d
 
 The results of this CNN is shown interactively by using Streamlit where users can select images from list and then look at the 
 results which are predicted by the network.
+
+I have used the data from https://www.kaggle.com/alessiocorrado99/animals10/download
